@@ -1,6 +1,6 @@
 ### Hi there, I'm Vishnu👋.
 
-## I'm a Student, Developer and Philomath!!
+## I'm a Student, Developer and a Philomath!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other students and developers
@@ -37,6 +37,7 @@
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Vishnu's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=vishnu-sagubandi&show_icons=true&hide_border=true" />
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishnu-sagubandi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
