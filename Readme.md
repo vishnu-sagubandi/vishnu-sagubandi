@@ -37,7 +37,7 @@
   <summary>:zap: GitHub Stats</summary>
   <br />
 
-  <img align="left" alt="Vishnu's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vishnu-sagubandi&hide=prs,contribs&theme=radical&show_icons=true" />
+  <img align="left" alt="Vishnu's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vishnu-sagubandi&hide=prs,contribs&theme=highcontrast&show_icons=true" />
   <img alt="Vishnu's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnu-sagubandi&layout=compact&theme=dark" />
 
 </details>
