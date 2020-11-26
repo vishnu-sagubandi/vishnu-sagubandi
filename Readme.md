@@ -38,7 +38,7 @@
   <br />
 
   <img align="left" alt="Vishnu's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vishnu-sagubandi&hide=prs,contribs&theme=highcontrast&show_icons=true" />
-  <img alt="Vishnu's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnu-sagubandi&layout=compact&theme=dark" />
+  <img alt="Vishnu's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnu-sagubandi&layout=compact&theme=highcontrast" />
 
 </details>
 
