@@ -47,6 +47,6 @@
 
 [website]:https://github.com/vishnu-sagubandi/
 [twitter]: https://twitter.com/Vishnu80305467
-[instagram]: https://twitter.com/Vishnu80305467
+[instagram]: https://www.instagram.com/vishnu-sagubandi/
 [linkedin]: https://www.linkedin.com/in/vishnu-murthy-sagubandi-72022a191/
 [Facebook]:https://www.facebook.com/vishnu.sagubandi/
