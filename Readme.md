@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other students and developers
-- 🥅 2020 Goals: Learn developer tools as many as possible
+- 🥅 2021 Goals: Matering Developer Tools
 - ⚡ Fun fact: I love watching cricket and playing too😅
 
 
