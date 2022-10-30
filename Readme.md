@@ -1,6 +1,6 @@
 ### Hi there, I'm Vishnu👋.
 
-## I'm a Student, Developer and a Philomath!!
+## I'm a Student and Developer👨‍💻
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other students and developers
