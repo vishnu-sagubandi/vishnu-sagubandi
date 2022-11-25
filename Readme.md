@@ -2,9 +2,9 @@
 
 ## I'm a Student and Developer👨‍💻
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other students and developers
-- 🥅 2021 Goals: Mastering Developer Tools
+- 🥅 2022 Goals: Mastering Developer Tools
 - ⚡ Fun fact: I love watching cricket and playing too😅
 
 
