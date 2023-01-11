@@ -3,12 +3,13 @@
 <div align="center">
 <img style="margin:auto" align="center" src="assets/night-code.gif" width="400"><br/><br/>
 I'm a self taught Full-Stack developer inclined towards frontend and passionate about new technologies.<br/> I like to work with JavaScript(React, Next.js), Python(Django) among others.
+<br>
+<br>
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=vishnu-sagubandi&style=flat&color=orange&label=PROFILE+VIEWS)
 [![GitHub followers](https://img.shields.io/github/followers/vishnu-sagubandi?label=Follow&style=social)](https://github.com/vishnu-sagubandi/?tab=follow)
 
 </div>
-<br>
 
 <div>
 
