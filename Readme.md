@@ -18,7 +18,7 @@ I'm a self taught Full-Stack developer inclined towards frontend and passionate 
 <div>
 <img align='right' src="assets/coffee.gif">
 
-- <img src="assets/reading_pirate.gif" width="23"> Final year undergraduate student at IITBHU, India
+- <img src="assets/reading_pirate.gif" width="23"> Graduated from IIT(BHU) Varanasi, India
 - <img src="assets/Developer.gif" width="23"> Former SDE Intern at Fastjobs.io and Paleru technologies
 - <img src="assets/computer-fire.gif" width="23"> Currently working on personal projects
 - <img src="assets/open_source_parrot.gif" width="22"> Open to collaborating on interesting projects
